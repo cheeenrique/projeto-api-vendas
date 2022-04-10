@@ -10,4 +10,5 @@ public class MyConfiguration {
     public String applicationName(){
         return "Sistema de Vendas Online";
     }
+
 }
