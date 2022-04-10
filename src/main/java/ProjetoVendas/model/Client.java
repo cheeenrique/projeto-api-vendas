@@ -1,6 +1,5 @@
 package ProjetoVendas.model;
 
-//Model Client
 public class Client {
     private String name;
 
